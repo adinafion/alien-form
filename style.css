@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0 0 10px rgb(23, 255, 2),
+        0 0 10px rgb(23, 255, 2),
+        0 0 10px rgb(23, 255, 2);
+    font-family: cursive;
+    color: white;
+    text-align: justify;
+    font-size: 130%;
+}
+
+.casetaform {
+    padding: 1%;
+    background-color: #2271b1;
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+    align-items: center;
+    border-style: groove;
+    border-color: rgb(34, 226, 17);
+    border-radius: 5%;
+}
+
+header {
+    font-size: 90%;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    text-shadow: 0 0 10px rgb(2, 253, 15),
+        0 0 10px rgb(2, 253, 15),
+        0 0 10px rgb(2, 253, 15),
+        0 0 10px rgb(2, 253, 15);
+    border-radius:15%;
+    padding:1%;
+}
+.formular {
+    padding:5% 10%;
+}
+
+p {
+    font-size:120%;
+    text-shadow: 0 0 10px white,
+        0 0 10px white,
+        0 0 10px black,
+        0 0 10px black;
+}
+.subtext{
+    text-shadow: 0 0 10px rgb(252, 3, 3),
+        0 0 10px rgb(252, 3, 3),
+        0 0 10px rgb(252, 3, 3),
+        0 0 10px white;
+    font-size:100%;
+}
+img {
+    width:45%;
+}
+.caseta{
+    display:block;
+    width:100%;
+    padding:2%;
+    background-color:rgb(41, 180, 214);
+    color:aliceblue;
+}
+option {
+    font-family:cursive;
+    text-shadow:0 0 10px black;
+    font-size:medium;
+}
+#send{
+    font-size:120%;
+    font-family:cursive;
+    background-color:rgb(173, 104, 238);
+}
